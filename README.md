@@ -12,5 +12,15 @@ IF {news.163.com has new message} THEN {drag the message to my blog}
 其中 IF 和 THEN 为关键词，IF 后面的部分为触发器，THEN 后面部分为任 务。
 关于 IFTTT:(建议大家实验前先了解一下基本思想) IFTTT_百科:http://baike.baidu.com/item/ifttt?fr=aladdin
 
+
+更多要求详见instruction.pdf。
+
+
+程序说明文档(readme.pdf)，内容包括:
++ 电梯调度策略和程序功能说明;
++ 程序运行所需环境和运行指令规范;
++ 程序的输入说明，包括标准输入格式、输入限制和遇见输入错误时的 响应信息;
++ 程序计算结果的输出规格，以及可预见的运行错误响应信息;
+
 # 程序结构
 ![structure](https://github.com/sameen7/IFTTT/blob/master/structure.png)
